@@ -1,6 +1,6 @@
 ## Hi there 👋
-## 🔭 I’m currently working on making a browser engine
-## 🌱 I’m currently learning C++, Python, C# and JavaScript
+## 🔭 I’m currently working on making a browser engine 🔭
+## 🌱 I’m currently learning C++, Python, C# and JavaScript 🌱
 
 <!--
 **Laughlin005/Laughlin005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
